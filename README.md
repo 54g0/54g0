@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @54g0
-- 👀 I’m interested in AI, Math and Python Programming
+- 👀 I’m interested in Deep Learning, Math and Python Programming
 - 🌱 I’m currently learning Neural Networks
 - 📫 How to reach me Email:sagar.d@cmr.edu.in
 - 😄 Pronouns: he/him
