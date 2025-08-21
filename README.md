@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @54g0
-- 👀 I’m interested in Deep Learning, Math and Python Programming
-- 🌱 I’m currently learning Neural Networks
-- 📫 How to reach me Email:sagar.d@cmr.edu.in
+- 👀 I’m interested in AI, Math and Python Programming
+- 🌱 I’m currently learning Neural Networks and AI
 - 😄 Pronouns: he/him
 <!---
 54g0/54g0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
